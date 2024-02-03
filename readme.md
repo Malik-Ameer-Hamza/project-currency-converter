@@ -8,12 +8,13 @@ Install globally using npm:
 
 ```bash
 npm install -g ameer-currency-converter-app
+```
 
 or directly on cmd run:
 
 ```bash
 npx ameer-currency-converter
-
+```
 
 # Usage
 
