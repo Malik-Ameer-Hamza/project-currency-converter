@@ -2,7 +2,7 @@
   "name": "ameer-currency-converter",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "currency_converter.js",
   "type": "module",
   "bin" : "./currency_converter.js",
   "scripts": {
